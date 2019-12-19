@@ -19,7 +19,8 @@ def divide( a : float, b : float ) -> float:
     '''
 
     #   Remove this statement add a dividing here
-    raise NotImplementedError
+    return a/b
+    
 
 ##########################################################################
 #   CLASS
